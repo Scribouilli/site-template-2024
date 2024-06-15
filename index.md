@@ -86,6 +86,9 @@ Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à rem
   <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
 Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. 
 
+
+  <p>Pour nous contacter, écrivez-nous au <a href="mailto:#">nomdumail@blabla.com</a></p>
+
   
 </section>
 
