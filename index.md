@@ -20,21 +20,26 @@ order: 0
 
 <ul>
   <li>
-    <strong>1° La retraite à 60 ans</strong>
-    Les personnes qui ont 62 partent immédiatement à la retraite
+    Pour notre pouvoir d’achat et les droits sociaux
   </li>
   <li>
-    <strong>2° Mesure 2</strong>
-    sous-titre de la mesure
+    Pour la démocratie et l’égalité entre toutes et tous
   </li>
   <li>
-    <strong>2° Mesure 2</strong>
-    sous-titre de la mesure
+    Pour notre santé et nos services publics
+  </li>
+  <li>
+    Pour le vivant et le climat
+  </li>
+  <li>
+    Pour la relocalisation des industries et des emplois
+  </li>
+  <li>
+    Pour la paix partout, en Ukraine et à Gaza
   </li>
 </ul>
 
-  <a href="">Voir le programme en détail</a>
-
+  <a href="https://www.nouveaufrontpopulaire.fr/">Voir le programme en détail</a>
 
 </section>
 
@@ -47,13 +52,13 @@ order: 0
   <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
 <ul>
   <li>
-    Point numéro 1
+    Point à retenir sur notre candidat·e numéro 1
   </li>
   <li>
-    Point numéro 2
+    Point à retenir sur notre candidat·e numéro 2
   </li>
   <li>
-    Point numéro 3
+    Point à retenir sur notre candidat·e numéro 3
   </li>
 </ul>
 
@@ -65,16 +70,16 @@ Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à rem
 
 <h2>Nom Prénom - suppléante</h2>
 
-  <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
+  <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !) -->
 <ul>
   <li>
-    Point numéro 1
+    Point à retenir sur notre suppléant·e 1
   </li>
   <li>
-    Point numéro 2
+    Point à retenir sur notre suppléant·e 2
   </li>
   <li>
-    Point numéro 3
+    Point à retenir sur notre suppléant·e 3
   </li>
 </ul>
 
