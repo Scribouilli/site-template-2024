@@ -90,14 +90,16 @@ Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à rem
 
 <ul>
   <li>
-      <img alt="logo" src="./images/Illu_FP.jpg">
-
+      <img alt="logo des écologistes" src="./images/les-ecologistes.png">
   </li>
   <li>
-    <img alt="logo" src="./images/Illu_FP.jpg">
+    <img alt="logo de LFI" src="./images/lfi.png">
   </li>
   <li>
-    <img alt="logo" src="./images/Illu_FP.jpg">
+    <img alt="logo du PCF" src="./images/pcf.png">
+  </li>
+  <li>
+    <img alt="logo du PS" src="./images/ps.png">
   </li>
 </ul>
 
