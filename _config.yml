@@ -3,4 +3,4 @@ collections:
     output: true
 plugins:
   - jekyll-feed
-theme: mimoza
+theme: roz-aer
