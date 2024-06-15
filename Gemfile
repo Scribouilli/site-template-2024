@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.2"
 
 # Jekyll theme for Scribouilli
-gem "mimoza", git: "https://github.com/Scribouilli/mimoza.git", branch: "main"
+gem "roz-aer", git: "https://github.com/Scribouilli/roz-aer.git", branch: "main"
 
 group :jekyll_plugins do
   # Handle redirections
