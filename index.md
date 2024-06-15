@@ -42,7 +42,7 @@ order: 0
   <!-- Ci-dessous la photo de votre candidat·e -->
   <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/Illu_FP.jpg">
 
-## Nom Prénom
+<h2>Nom Prénom</h2>
 
   <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
 <ul>
@@ -63,7 +63,7 @@ Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à rem
 <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
   <img alt="Nom Prénom suppléante pour le Front Populaire le 30 juin" src="./images/Illu_FP.jpg">
 
-## Nom Prénom - suppléante
+<h2>Nom Prénom - suppléante</h2>
 
   <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
 <ul>
@@ -86,7 +86,7 @@ Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à rem
 
 <section class="logos_partis">
 
-  ## L'union de la gauche, c'est le Nouveau Front Populaire !
+  <h2>L'union de la gauche, c'est le Nouveau Front Populaire !</h2>
 
 <ul>
   <li>
@@ -115,10 +115,11 @@ Prenez contact rapidement avec des personnes volontaires sur <a href="https://ac
 
 <section class="inscription">
 
-- Vous ne savez pas quel est votre bureau de vote ?
-- Vous n'êtes pas sûr·es d'être inscrit·e ?
-- Vous voulez retrouver votre numéro d'électeur·ice pour faire une procuration ?
-
+<ul>
+<li>Vous ne savez pas quel est votre bureau de vote ?</li>
+<li>Vous n'êtes pas sûr·es d'être inscrit·e ?</li>
+<li>Vous voulez retrouver votre numéro d'électeur·ice pour faire une procuration ?</li>
+</ul>
 
 Retrouvez vos informations pour <strong>voter les 30 juin et 7 juillet</strong> sur <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Service-Public.fr</a>
 
