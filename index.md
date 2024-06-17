@@ -129,7 +129,7 @@ order: 0
 <section class="contact">
   <div>
     <h2>Nous contacter</h2>
-    <p>Écrivez-nous à <a href="mailto:#">nomdumail@blabla.com</a></p>
+    <p>Écrivez-nous à <a href="mailto:nomdumail@blabla.com">nomdumail@blabla.com</a></p>
   </div>
 </section>
 
