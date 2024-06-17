@@ -3,6 +3,16 @@ title: Accueil
 order: 0
 ---
 
+<header>
+  <div>
+    <img src="./images/logo-NFP.png" alt="Nouveau Front Populaire" />
+  </div>
+
+  <div>
+    <h1>Le 30 juin et le 7 juillet, <br />votez NOM Prénom !</h1>
+  </div>
+</header>
+
 <section class="entete">
   <div>
     <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
