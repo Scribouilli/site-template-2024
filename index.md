@@ -192,7 +192,7 @@ order: 0
   <div>
     <img src="./images/logo-NFP-rouge.png" alt="Nouveau Front Populaire">
     
-    <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites votez autour de vous !</h2>
+    <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites voter autour de vous !</h2>
     
     <!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->
     <p>Que vous soyez électeur ou électrice à Nom de ville 1, Nom de ville 2, Nom de ville 3… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
