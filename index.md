@@ -15,14 +15,14 @@ order: 0
 
 <section class="entete">
   <div>
-    <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+    <img alt="" src="./images/candidate-1.png"> 
 
-    <div class="buttons">
-      <div>
+    <div class="buttons" role="list">
+      <div role="listitem">
         <a href="#programme" class="btn">Notre programme</a>
       </div>
 
-      <div>
+      <div role="listitem">
         <a href="#procuration" class="btn">Faire une procuration</a>
       </div>
     </div>
@@ -56,12 +56,12 @@ order: 0
       </li>
     </ul>
 
-    <div class="buttons">
-      <div>
+    <div class="buttons" role="list">
+      <div role="listitem">
         <a href="https://www.nouveaufrontpopulaire.fr/" class="btn">Voir le programme en détail</a>
       </div>
 
-      <div>
+      <div role="listitem">
         <a href="#candidature" class="btn">Nos candidats</a>
       </div>
     </div>
@@ -73,7 +73,7 @@ order: 0
     <article>
       <div>
         <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+        <img alt="" src="./images/candidate-1.png">
       </div>
 
       <div>
@@ -100,7 +100,7 @@ order: 0
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="Nom Prénom suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
+        <img alt="" src="./images/candidate-2.png">
       </div>
 
       <div>
@@ -139,16 +139,16 @@ order: 0
 
     <ul>
       <li>
-          <img alt="logo des écologistes" src="./images/les-ecologistes.png">
+          <img alt="Les écologistes Europe Écologie Les Verts" src="./images/les-ecologistes.png">
       </li>
       <li>
-        <img alt="logo de LFI" src="./images/lfi.png">
+        <img alt="La France insoumise" src="./images/lfi.png">
       </li>
       <li>
-        <img alt="logo du PCF" src="./images/pcf.png">
+        <img alt="PCF Parti communiste français" src="./images/pcf.png">
       </li>
       <li>
-        <img alt="logo du PS" src="./images/ps.png">
+        <img alt="Le Parti socialiste" src="./images/ps.png">
       </li>
     </ul>
 
@@ -164,11 +164,11 @@ order: 0
   
     <p>Il vous suffit de connaitre votre numéro de bureau de vote.</p>
 
-    <div class="buttons">
-      <div>
+    <div class="buttons" role="list">
+      <div role="listitem">
          <a href="https://actionpopulaire.fr/procuration" class="btn">Faire une procuration</a>
       </div>
-      <div>
+      <div role="listitem">
         <a href="#inscription" class="btn">Trouver mon bureau de vote</a>
       </div>
     </div>
